@@ -1,0 +1,1 @@
+Omití acentos para evitar problemas de configuración con la codificación.
